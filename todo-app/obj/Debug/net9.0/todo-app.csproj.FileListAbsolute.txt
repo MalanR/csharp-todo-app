@@ -1,0 +1,15 @@
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\bin\Debug\net9.0\todo-app.exe
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\bin\Debug\net9.0\todo-app.deps.json
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\bin\Debug\net9.0\todo-app.runtimeconfig.json
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\bin\Debug\net9.0\todo-app.dll
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\bin\Debug\net9.0\todo-app.pdb
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.AssemblyInfoInputs.cache
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.AssemblyInfo.cs
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.csproj.CoreCompileInputs.cache
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.sourcelink.json
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.dll
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\refint\todo-app.dll
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.pdb
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\todo-app.genruntimeconfig.cache
+C:\Users\Malan Rautenbach\Documents\GitHub\csharp-todo-app\todo-app\obj\Debug\net9.0\ref\todo-app.dll
